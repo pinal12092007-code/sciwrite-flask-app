@@ -1,0 +1,8 @@
+Flask==3.0.0
+google-genai
+pandas
+matplotlib
+Jinja2
+python-dotenv
+gunicorn
+Werkzeug==3.0.1
